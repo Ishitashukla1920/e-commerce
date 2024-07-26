@@ -1,3 +1,3 @@
-﻿# MERN E-Commerce Store 👇
+﻿# MERN E-Commerce Store 
 
-(/thumb.png)
+This is a MERN stack project
